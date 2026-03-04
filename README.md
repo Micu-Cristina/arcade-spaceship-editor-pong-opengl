@@ -5,17 +5,7 @@ A 2D game project implementing a **spaceship construction editor** and the class
 
 ---
 
-## 📋 Table of Contents
 
-- [Project Overview](#project-overview)
-- [Framework Structure](#framework-structure)
-- [Project Architecture](#project-architecture)
-- [File Structure](#file-structure)
-- [Function Reference](#function-reference)
-- [How to Build & Run](#how-to-build--run)
-- [Controls](#controls)
-
----
 
 ## Project Overview
 
